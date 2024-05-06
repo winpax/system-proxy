@@ -1,0 +1,9 @@
+[package]
+edition = "2021"
+name = "library-name"
+version = "0.1.0"
+
+[dependencies]
+
+[dev-dependencies]
+cargo-husky = { version = "1.5.0", features = ["user-hooks"] }
